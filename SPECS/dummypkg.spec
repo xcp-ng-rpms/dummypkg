@@ -16,6 +16,8 @@ Summary:        Extra dummy package
 %description extra
 Extra dummy package
 
+We use it for tests.
+
 %prep
 
 %build
