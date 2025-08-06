@@ -17,6 +17,7 @@ Summary:        Extra dummy package
 Extra dummy package
 
 %prep
+# A change
 
 %build
 
