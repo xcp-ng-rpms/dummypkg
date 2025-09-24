@@ -1,7 +1,7 @@
 Summary:        Dummy package for test purpose
 Name:           dummypkg
 Version:        1.0
-Release:        2%{?dist}
+Release:        2.0.test.2%{?dist}
 License:        Public Domain
 URL:            https://github.com/xcp-ng-rpms/dummypkg
 
