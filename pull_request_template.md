@@ -1,12 +1,16 @@
 ### Work Item Reference
 
+<!--
 _If this change is related to a Vates internal task or issue, please provide a work item reference. Otherwise, leave this blank._
+-->
 
 ---
 
 ### Why should this change be accepted as an update to XCP-ng
 
+<!--
 _Explain the motivation, problem being solved, or benefit to users or maintainers._
+-->
 
 ---
 
@@ -14,9 +18,14 @@ _Explain the motivation, problem being solved, or benefit to users or maintainer
 
 #### Explain the change for users
 
+<!--
 _Write a user-facing explanation which will serve as a basis for public announcements._
+-->
 
+<!--
 _Good release notes explain what changes, who is concerned, and how it affects them. It's not a technical changelog._
+-->
+
 
 #### Do users or support need to be aware of anything specific?
 
